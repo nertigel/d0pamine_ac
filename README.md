@@ -11,3 +11,9 @@ LoadResourceFile(attempt to grab from a different resource)
 AddExplosion
 server ip printing
 warmenu debug trace
+
+## Installation/Uninstallation
+based off NSAC/AlphaVeta.
+command: <kbd>d0pamine install all/resource_name</kbd> | <kbd>d0pamine uninstall all/resource_name</kbd> (only through server console).
+after installing it restart the server or the resource.
+if you would like to have your own code in these files you could edit `d0pamine.clientCode` for `client` code or `d0pamine.serverCode` for `server` code in the config file.
