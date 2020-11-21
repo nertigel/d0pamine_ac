@@ -7,12 +7,12 @@ It's based of my old uglifier and NSAC, should be very easy to use.
 I'd recommend you to take the newest code of my uglifier(https://github.com/nertigel/lua_proj).
 
 ## detections
-Global variable
-Load function manipulation
-LoadResourceFile(attempt to grab from a different resource)
-AddExplosion
-Server IP printing
-WarMenu debug trace
+* Global variable
+* Load function manipulation
+* LoadResourceFile(attempt to grab from a different resource)
+* AddExplosion
+* Server IP printing
+* WarMenu debug trace
 
 ## Installation/Uninstallation
 Command: <kbd>d0pamine install all/resource_name</kbd> | <kbd>d0pamine uninstall all/resource_name</kbd> (only through server console).
